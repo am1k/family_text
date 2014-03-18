@@ -228,12 +228,12 @@ body {
 }
 .filter {
     width: 100%;
-    max-width: 220px;
+    max-width: 218px;
     float: left;
     height: 250px;
     border: 1px solid #f9843c;
     border-radius: 3px;
-    box-shadow: -1px 1px 1px 0;
+    box-shadow: 0 0 3px 0;
     background-color: #f9843c;
 }
 .filter ul {
